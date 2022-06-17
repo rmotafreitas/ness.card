@@ -5,7 +5,7 @@ const config = {
   HEADER: "assets/img/header.gif",
 
   DESCRIPTION:
-    "Hi, I'm Ness, a 17 years old young Portuguese programmer and gamer in his free time.",
+    "Hi, I'm Ness, a 17 years old young Portuguese programmer and gamer in my free time.",
 
   BADGES: [
     { id: "NodeJS developer", image: "assets/img/nodebadge.png" },
