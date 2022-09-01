@@ -37,5 +37,6 @@ const config = {
   SOCIALS: [
     { class_name: "fab fa-github", link: "https://github.com/rmotafreitas" },
     { class_name: "fab fa-twitter", link: "https://twitter.com/rmotafreitas" },
+    { class_name: "fab fa-fiverr", link: "https://twitter.com/rmotafreitas" },
   ],
 };
