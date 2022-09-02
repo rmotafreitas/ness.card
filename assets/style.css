@@ -21,8 +21,6 @@ body {
   */
 
   background-image: linear-gradient(69deg, #634943 16%, #98685a 100%);
-
-  overflow: hidden;
 }
 
 .profile {
@@ -166,7 +164,6 @@ hr {
 
 @media (max-width: 600px) {
   body {
-    overflow-y: scroll !important;
   }
 
   .box.profile {
